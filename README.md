@@ -1,5 +1,5 @@
 # OCP6-Consumer-goods-automatic-classification-with-NLP-and-CNN
-Projet 6 d'Openclassrooms / CentraleSupélec
+Unsupervised classification of products based on their text description (NLP) or image (computer vision)
 
 L'objet de ce projet est d'examiner la faisabilité de classifier de manière non supervisée la liste des produits d'un site de e-commerce à partir de leur description sous forme de texte ou d'image.
 
